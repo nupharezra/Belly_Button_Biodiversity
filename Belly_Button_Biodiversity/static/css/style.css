@@ -1,0 +1,11 @@
+body {
+    color: #080808;
+    background-color: #91c4ca;
+}
+
+.jumbotron {
+    background-image: url("../images/image.png");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
